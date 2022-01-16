@@ -1,0 +1,10 @@
+python -m pip install pipx
+python -m pipx ensurepath
+
+# close and reopen terminal
+pipx install eth-brownie
+
+# close and reopen terminal again
+
+# start using brownie
+brownie init
